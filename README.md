@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @saddamsegwitz
+- I am Laravel developer as well as Vue JS developer
 - 👀 I’m interested in software developement, singing, playing piano, tabla and guitar
 - 🌱 I’m currently learning MERN and MEAN.
 - 💞️ I’m looking to collaborate on ...
